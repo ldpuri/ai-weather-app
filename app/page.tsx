@@ -1,7 +1,7 @@
 export default function Home() {
 	return (
 		<div>
-			<h1>Jovie&apos;s app</h1>
+			<h1>AI Weather App</h1>
 		</div>
 	);
 }
